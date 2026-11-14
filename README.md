@@ -10,6 +10,6 @@ The three spinning-reel GIFs the V for Victory Orb Drop Generator (a Roll20 Mod)
 
 ## wicked
 
-The Infernal Contract character sheet's art: `seal.png` (the Dominion's wax seal with its cords, shown at 100px wide), the fire frame cut from the sheet's mockup with its page turned to alpha (`frame-top-left.png` and `frame-top-right.png` at 206px, `frame-bottom.png` at the sheet's 820px width), and the two flame flourishes `flame-left.png` / `flame-right.png` from the "Wax Seal and Fiery Flourishes Set", hosted but unused by the sheet. Sources in `wicked/sheet/design/art/` in the `dungeon-heart-roll20` repository; copy here. Served as
+The Infernal Contract character sheet's art: `seal.png` (the Dominion's wax seal with its cords, shown at 100px wide) and `border.gif` (the "Animated Fiery Ornate Border", 437x399, 9 frames at 110 ms, transparent middle; the sheet lays it over itself as a `border-image` at 1.5x). Hosted but no longer used by the sheet: the fire frame cut from the sheet's mockup (`frame-top-left.png`, `frame-top-right.png`, `frame-bottom.png`) and the two flame flourishes `flame-left.png` / `flame-right.png` from the "Wax Seal and Fiery Flourishes Set". Sources in `wicked/sheet/design/art/` in the `dungeon-heart-roll20` repository; copy here. Served as
 
-    https://raw.githubusercontent.com/rpg-vaults/roll-20-images/main/wicked/<name>.png
+    https://raw.githubusercontent.com/rpg-vaults/roll-20-images/main/wicked/<name>
